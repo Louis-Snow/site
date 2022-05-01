@@ -1,0 +1,52 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'About', url: 'projects/About.html'}
+- {name: '2D', url: 'projects/2Dwork.html'}
+- {name: '3D', url: 'projects/3Dwork.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Art by Louis Snow'
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'thathungrymind'
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: '2D Work', folder: '2Dwork', file: 'projects/2Dwork.html'}
+- {name: '3D Work', folder: '3Dwork', file: 'projects/3Dwork.html'}
+- {name: 'About', folder: 'About', file: 'projects/About.html'}
+
+#-------------------------------
+# Contact Section
+
+#social:
+#- {icon: 'envelope', link: 'mailto:#'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
