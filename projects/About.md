@@ -6,7 +6,7 @@ I'm Louis, animator and illustrator. That's it. It's almost impossible to find t
 
 #### **Contact**
 
-Please send any inquiries [to losn0807@gmail.com](mailto:losn0807@gmail.com) if you would like to ask about a commission or if there's anything about my work that you'd like to know.
+Please send any inquiries [to louis@louissnow.com](mailto:louis@louissnow.com) if you would like to ask about a commission or if there's anything about my work that you'd like to know.
 
 #### **Site Credits**
  
