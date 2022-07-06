@@ -2,11 +2,11 @@
 layout: post
 title: 'About'
 ---
-I'm Louis, animator and illustrator. That's it. It's almost impossible to find this website via web search, so chances are I told you to go to this address. Thanks for doing what I asked.
+I'm Louis, animator and illustrator. Thanks for visiting my website! I've had experience creating artwork, branding and all sorts of media (videos, motion design, games) for years, and am currently a full time student.
 
 #### **Contact**
 
-Please send any inquiries [to louis@louissnow.com](mailto:louis@louissnow.com) if you would like to ask about a commission or if there's anything about my work that you'd like to know.
+Please send any inquiries [to louis@louissnow.com](mailto:louis@louissnow.com) if you would like to ask about a commission or if there's anything about my work that you'd like to know. 
 
 #### **Site Credits**
  
