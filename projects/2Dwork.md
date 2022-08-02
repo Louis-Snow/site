@@ -8,7 +8,7 @@ title: '2D'
 <figure>
     <img src="/assets/img/projects/2Dwork/unibras2022.png"
          alt="Unibrass">
-    <figcaption>A hypothetical proposal for unique merch designs for Unibrass sets.</figcaption>
+    <figcaption>The logo design for UniBrass 2023, hosted at the University of Warwick..</figcaption>
 </figure>
 
 #### **Backgrounds**
